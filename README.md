@@ -15,7 +15,7 @@ Follow these steps to run the app locally on your system:
 
 **1. Clone the Repository:**
 
-         git clone <https://github.com/krish143225/s-w-architect-week5-.git>
+         git clone https://github.com/krish143225/s-w-architect-week5-.git
    
 **2. Navigate to the Project Directory:**
 

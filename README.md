@@ -1,4 +1,4 @@
-My Django Hello World App
+My Django Hello World App 
 
 Welcome to my simple Django Hello World app! This app provides a JSON response with a "Hello World!" message.
 

@@ -19,7 +19,7 @@ Follow these steps to run the app locally on your system:
    
 **2. Navigate to the Project Directory:**
 
-         cd mydjangoproj
+         Go to the project directory location in cmd..
 
 **3. Create a Virtual Environment (Optional but recommended):**
 
